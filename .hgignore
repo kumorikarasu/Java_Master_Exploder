@@ -1,0 +1,4 @@
+glob:*.metadata
+glob:Platform/bin/*
+glob:World Editor 2/bin/*
+glob:World Editor/bin/*
